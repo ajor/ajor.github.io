@@ -4,10 +4,8 @@ layout: default
 
 <article class="page">
 
-  <div>
-    <h1>{{ page.title }}</h1>
-    {% if page.link %}<a href="{{ page.link }}">{{ page.link }}</a>{% endif %}
-  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.link %}<a class="subtitle-link" href="{{ page.link }}">{{ page.link }}</a>{% endif %}
 
   <div class="entry">
     {{ content }}
