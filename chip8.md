@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gameboy Emulator
-link: https://github.com/ajor/gameboy
-permalink: /gameboy/
+title: Chip8 Emulator
+link: https://github.com/ajor/chip8
+permalink: /chip8/
 ---
