@@ -111,6 +111,11 @@ img {
   max-width: 100%;
 }
 
+img[alt="Chip8 screenshot"],
+img[alt="Gameboy screenshot"] {
+  max-width: 49%;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -244,6 +249,10 @@ nav {
   margin-top: -25px;
   margin-bottom: 25px;
   display: block;
+}
+
+.related-posts {
+  border-bottom: 1px solid $lightGray;
 }
 
 //
