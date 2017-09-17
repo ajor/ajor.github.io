@@ -121,7 +121,7 @@ img[alt="Gameboy"] {
 img[alt="Chip8 screenshot"],
 img[alt="Gameboy screenshot"] {
   max-width: 45%;
-  filter: drop-shadow(10px 10px 10px);
+  filter: drop-shadow(10px 10px 10px black);
   margin: 10px;
 
   @include mobile {
