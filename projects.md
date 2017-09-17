@@ -6,6 +6,8 @@ permalink: /projects/
 
 ## [BPFtrace](/bpftrace)
 
+[![BPFtrace](/images/bpftrace.png)](/bpftrace)
+
 ## [Gameboy Emulator](/gameboy)
 
 [![Gameboy](/images/gameboy/supermario2_ants.png)](/gameboy)

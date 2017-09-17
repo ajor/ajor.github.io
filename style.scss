@@ -113,7 +113,8 @@ img {
 }
 
 img[alt="Chip8"],
-img[alt="Gameboy"] {
+img[alt="Gameboy"],
+img[alt="BPFtrace"] {
   filter: drop-shadow(0px 10px 15px black);
   margin-bottom: 15px;
 }
