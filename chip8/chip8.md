@@ -6,7 +6,7 @@ tag: chip8
 permalink: /chip8/
 ---
 
-[Play online with your own Chip8 games](chip8.html), or select a game from below.
+[Play in your browser with your own Chip8 games](chip8.html), or select a game from below.
 
 ## Chip-8 games:
 
