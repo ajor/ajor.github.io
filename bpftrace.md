@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BPFtrace
-link: https://github.com/ajor/bpftrace
+link: https://github.com/iovisor/bpftrace
 permalink: /bpftrace/
 ---
 
