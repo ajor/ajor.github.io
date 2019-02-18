@@ -6,7 +6,7 @@
 name: Alastair Robertson
 
 # Short bio or description (displayed in the header)
-description: Software Engineer at G-Research
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -18,12 +18,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: alastair @ this site
   facebook:
   flickr:
   github: ajor
   instagram:
-  linkedin: robertsonalastair
+  linkedin: alastair-robertson
   pinterest:
   rss: ajor # just type anything here for a working RSS icon
   twitter:
