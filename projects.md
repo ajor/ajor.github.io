@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-## [BPFtrace](/bpftrace)
+## [bpftrace](/bpftrace)
 
-[![BPFtrace](/images/bpftrace.png)](/bpftrace)
+[![bpftrace](/images/bpftrace.png)](/bpftrace)
 
 ## [Gameboy Emulator](/gameboy)
 
