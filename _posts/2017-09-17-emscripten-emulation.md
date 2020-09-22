@@ -4,7 +4,7 @@ title: Porting the Chip8 emulator to the web
 tags: chip8 emulation
 ---
 
-[Emscripten](https://kripken.github.io/emscripten-site) is an LLVM-based compiler for converting C and C++ code into asm.js, a highly optimisable subset of JavaScript, which allows programs to run in a web browser at near native speed. This post will go through the steps required to port my Chip8 emaultor to the web browser.
+[Emscripten](https://kripken.github.io/emscripten-site) is an LLVM-based compiler for converting C and C++ code into asm.js, a highly optimisable subset of JavaScript, which allows programs to run in a web browser at near native speed. This post will go through the steps required to port my Chip8 emulator to the web browser.
 
 ## Main Loop
 
